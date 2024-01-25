@@ -1,4 +1,6 @@
+// Array of winning combinations in a tic-tac-toe game
 export const WINNING_COMBINATIONS = [
+  // Rows
   [
     { row: 0, column: 0 },
     { row: 0, column: 1 },
@@ -14,6 +16,8 @@ export const WINNING_COMBINATIONS = [
     { row: 2, column: 1 },
     { row: 2, column: 2 },
   ],
+
+  // Columns
   [
     { row: 0, column: 0 },
     { row: 1, column: 0 },
@@ -29,6 +33,8 @@ export const WINNING_COMBINATIONS = [
     { row: 1, column: 2 },
     { row: 2, column: 2 },
   ],
+
+  // Diagonals
   [
     { row: 0, column: 0 },
     { row: 1, column: 1 },
