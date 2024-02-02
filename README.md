@@ -29,7 +29,7 @@ This project is a Tic-Tac-Toe game implemented in React, following Maximilian Sc
 ## Credits
 
 - **Instructor:** Maximilian Schwarzmüller
-- **Course:** [React Essentials - Deep Dive](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+- **Course:** [React - The Complete Guide 2024 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 ## License
 
